@@ -1,0 +1,6 @@
+{
+  "name": "Apex Fit",
+  "description": "تطبيق Apex Fit الاحترافي للتمارين المنزلية، التغذية الرياضية، 100 حقيقة غذائية، والمدرب الذكي بتصميم نيون زجاجي داكن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
